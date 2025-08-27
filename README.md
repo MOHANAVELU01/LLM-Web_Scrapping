@@ -1,9 +1,3 @@
-Got it ✅. I see your project files, including the existing `README.md` (which is empty except for the title), your main script (`main.py`), and sample persona outputs. I’ll now draft a **professional README file** for your project.
-
-Here’s a complete version you can use:
-
----
-
 # Reddit-User-Persona-Generation-using-LLMs-and-Web-Scraping
 
 ## 📌 Overview
